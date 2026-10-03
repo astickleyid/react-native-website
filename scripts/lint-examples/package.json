@@ -8,7 +8,7 @@
     "tsc-examples": "./bin/tsc-examples.js"
   },
   "devDependencies": {
-    "@babel/core": "^7.25.2",
+    "@babel/core": "^7.29.6",
     "@babel/preset-env": "^7.25.4",
     "@babel/runtime": "^7.25.6",
     "@react-native-community/slider": "^4.5.3",
